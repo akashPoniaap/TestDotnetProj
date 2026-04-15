@@ -1,0 +1,7 @@
+D:\Personal WorkStation\mymvcapp\bin\Release\net10.0\publish\mymvcapp.exe
+D:\Personal WorkStation\mymvcapp\bin\Release\net10.0\publish\appsettings.Development.json
+D:\Personal WorkStation\mymvcapp\bin\Release\net10.0\publish\appsettings.json
+D:\Personal WorkStation\mymvcapp\bin\Release\net10.0\publish\mymvcapp.dll
+D:\Personal WorkStation\mymvcapp\bin\Release\net10.0\publish\mymvcapp.deps.json
+D:\Personal WorkStation\mymvcapp\bin\Release\net10.0\publish\mymvcapp.runtimeconfig.json
+D:\Personal WorkStation\mymvcapp\bin\Release\net10.0\publish\mymvcapp.pdb
